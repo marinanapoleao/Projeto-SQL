@@ -84,6 +84,7 @@ Possui as colunas:
 
 
 # Projeto Final do Aprofundamento de Analytics
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/7c124977-1552-47f6-98b8-2b3acb81f9c5" />
 
 ### Contexto do negócio: 
 Uma empresa de e-commerce possui duas bases de dados separadas: uma contendo informações cadastrais dos clientes e outra registrando as transações realizadas. Antes da construção de dashboards e análises gerenciais, é necessário consolidar essas informações em uma única base consistente, identificar registros sem correspondência e preparar os dados para consumo em ferramentas de Business Intelligence.
