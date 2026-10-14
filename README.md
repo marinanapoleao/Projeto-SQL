@@ -5,7 +5,7 @@
 Uma empresa possui uma base de vendas e deseja obter rapidamente informações sobre seus pedidos, produtos e indicadores de vendas para apoiar a tomada de decisões comerciais.
 
 
-### Objetivo:	Demonstrar conhecimentos fundamentais em SQL por meio da consulta e análise de uma base de vendas utilizando SQLite.
+### 📌 Objetivo:	Demonstrar conhecimentos fundamentais em SQL por meio da consulta e análise de uma base de vendas utilizando SQLite.
 
 - Manipulação de bancos de dados relacionais;
 - Extração de informações utilizando SQL;
@@ -14,7 +14,7 @@ Uma empresa possui uma base de vendas e deseja obter rapidamente informações s
 - Aplicação de funções de agregação para geração de métricas de negócio.
 
 
-### LINGUAGENS E BIBLIOTECAS
+### 🛠️ LINGUAGENS E BIBLIOTECAS
 - Python
 - SQLite
 - SQL
@@ -22,7 +22,7 @@ Uma empresa possui uma base de vendas e deseja obter rapidamente informações s
 - Jupyter Notebook
 
 
-### BASE DE DADOS
+### 📊 BASE DE DADOS
 
 A tabela principal é: TB_VENDAS
 
@@ -34,7 +34,7 @@ Possui as colunas:
 - UNIDADES
 
 
-### Principais Consultas SQL:
+### 🔍 Principais Consultas SQL:
 
 - #### Consulta completa:
   SELECT *
@@ -70,7 +70,7 @@ Possui as colunas:
   FROM TB_VENDAS;
 
 
-### COMPETÊNCIAS DEMONSTRADAS
+### 🔍 COMPETÊNCIAS DEMONSTRADAS
 
 * SQL
 * SQLite
@@ -86,10 +86,10 @@ Possui as colunas:
 # Projeto Final do Aprofundamento de Analytics
 <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/7c124977-1552-47f6-98b8-2b3acb81f9c5" />
 
-### Contexto do negócio: 
+### 📌 Contexto do negócio: 
 Uma empresa de e-commerce possui duas bases de dados separadas: uma contendo informações cadastrais dos clientes e outra registrando as transações realizadas. Antes da construção de dashboards e análises gerenciais, é necessário consolidar essas informações em uma única base consistente, identificar registros sem correspondência e preparar os dados para consumo em ferramentas de Business Intelligence.
 
-### Objetivo: 
+### 🎯 Objetivo: 
 - Integrar dados provenientes de diferentes tabelas;
 - Identificar registros inconsistentes;
 - Analisar clientes sem transações;
@@ -97,14 +97,14 @@ Uma empresa de e-commerce possui duas bases de dados separadas: uma contendo inf
 - Gerar uma base consolidada;
 - Preparar os dados para visualização em Power BI.
 
-### LINGUAGENS E BIBLIOTECAS
+### 🛠️ LINGUAGENS E BIBLIOTECAS
 - Python
 - SQLite
 - SQL
 - Pandas
 - Jupyter Notebook
 
-### Tratamento dos Dados:
+### 📊 Tratamento dos Dados:
 - União das bases por chave (id_client);
 - Identificação de valores nulos;
 - Separação de registros inconsistentes;
