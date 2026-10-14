@@ -131,7 +131,14 @@ Uma empresa de e-commerce possui duas bases de dados separadas: uma contendo inf
   df_completa = run_query(query_completa)
   print(df_completa)
 
-### Identificação de inconsistências:
+### 💡 Identificação de inconsistências:
 - Clientes sem compras;
 - Compras sem cliente cadastrado;
 - Registros completos.
+
+## 👩‍💻 Sobre a Autora
+
+Desenvolvido por Marina Napoleão — Cientista de Dados / Analista de Dados. 
+### LinkedIn <https://www.linkedin.com/in/marina-napoleao/>
+### GitHub <https://github.com/marinanapoleao> 
+
