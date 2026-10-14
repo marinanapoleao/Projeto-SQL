@@ -1,5 +1,5 @@
 # Análise de Banco de Dados de Vendas com SQL
-
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/f418d808-14b5-442d-ad7f-fc5d157c82cc" />
 
 ### Contexto do negócio:
 Uma empresa possui uma base de vendas e deseja obter rapidamente informações sobre seus pedidos, produtos e indicadores de vendas para apoiar a tomada de decisões comerciais.
